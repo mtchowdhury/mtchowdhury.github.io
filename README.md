@@ -48,7 +48,7 @@
 - [More Info](https://www.cloudapper.ai)
 
 ### ASAI Micro-Finance Banking System(AMBS)
-- Main 360 Solution for ASA International that runs over 14 Countries worldwide
+- Main 360° Solution for ASA International that runs over 14 Countries worldwide
 
 - Migrated major modules like accounts, finance, operations from mono web-form to micro-service architecture solution from scratch
 - Maintained and enhanced legacy web-form, web-service tools that was partially operational globally
@@ -57,7 +57,7 @@
 - Tech Stacks: .Net Core, Angular, React, Web form, MS SQL, Mongo, RabbitMQ, Kibana, Elasticsearch etc.
 
 ### ASA Bangladesh Micro-Finance Management System(AMMS)
-- Main 360 Solution for ASA Bangladesh that runs over 3200++ branches across the country
+- Main Core Solution for ASA Bangladesh that runs over 3200++ branches across the country
 
 - Developed next generation online system using .Net, Angularjs, MS SQL, Jquery etc. from offline Win Form application. This enabled the orginazation to avoid consolidating daily scatterd branch data, remove the necessity of manually collecting confidential operational data and get rid of the hassle of machine centric hardware compatibility for each branch.
 - Wrote many complex sql queries and long running services to migrate and archieve more than 16 years of 3200++ branches data to develop the reporting server
