@@ -56,7 +56,7 @@
 - Developed long running backend services for live reporting and data migration and consolidation from prod to report server
 - Tech Stacks: .Net Core, Angular, React, Web form, MS SQL, Mongo, RabbitMQ, Kibana, Elasticsearch etc.
 
-### ASAI Micro-Finance Banking System(AMBS)
+### ASA Bangladesh Micro-Finance Management System(AMMS)
 - Main 360 Solution for ASA Bangladesh that runs over 3200++ branches across the country
 
 - Developed next generation online system using .Net, Angularjs, MS SQL, Jquery etc. from offline Win Form application. This enabled the orginazation to avoid consolidating daily scatterd branch data, remove the necessity of manually collecting confidential operational data and get rid of the hassle of machine centric hardware compatibility for each branch.
