@@ -35,7 +35,7 @@
 
 ## Certifications			        		
 - Optimizely Certified Content Cloud Developer
-- Top-Up IT Training (LICT, Employment and Governance Project, BD) - Native Android Application Development (180 Hrs.)
+- Top-Up IT Training (LICT, Employment and Governance Project, BD) | Native Android Application Development (180 Hrs.)
 
 
 ## Projects
