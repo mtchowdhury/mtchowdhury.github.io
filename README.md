@@ -41,7 +41,7 @@
 ## Projects
 
 ### CloudApper
-- No-Code Platform for Enterprise Web/ Mobile
+- No-Code Platform for Enterprise Web / Mobile app
 
 - Developed several major front end modules using Angular 8, devexpress, akita etc. , that provides complex UI/UX supporting DnD for custom UI building from scratch without coding.
 - Maintained and developed backend modules like custom dynamic report generation, API for web app, API for mobile App, with .Net Core, PostgreSQL, Apache Solr
