@@ -12,7 +12,7 @@
 
 **Software Engineer @ ASAI Management Services Ltd. (_Nov 2020 - Apr 2023_)**
 - Designed and developed micro-service-based financial solutions using .NET Core, Angular, MSSQL, and MongoDB, following the Saga pattern and clean architecture principles
-- Developed a real-time data pulling service architecture for consolidating financial data from multiple servers across different countries, using .Net Core service and message     broker (RabbitMQ). This portal automated the whole manual report consolidation process organization-wide
+- Developed a real-time data pulling service architecture for consolidating financial data from multiple servers across different countries, using .Net Core, message broker (RabbitMQ) and ELK stack. This portal automated the whole manual report consolidation process organization-wide
 - Developed back-end services for report generation from across 13 countries financial and operational data with complex and dynamic query and stored procedures with SQL and .Net Core
 - Coordinated with cross-functional (QA, Implementation, BA, Operations etc.) teams to ensure seamless integration and deployment of new features
 - [www.asa-international.com](www.asa-international.com)
@@ -43,7 +43,7 @@
 ### CloudApper
 - No-Code Platform for Enterprise Web / Mobile app
 
-- Developed several major front end modules using Angular 8, devexpress, akita etc. , that provides complex UI/UX supporting DnD for custom UI building from scratch without coding.
+- Developed several major front end modules using Angular 8, devexpress, akita, AWS S3 etc. , that provides complex UI/UX supporting DnD for custom UI building from scratch without coding.
 - Maintained and developed backend modules like custom dynamic report generation, API for web app, API for mobile App, with .Net Core, PostgreSQL, Apache Solr
 - [More Info](https://www.cloudapper.ai)
 
