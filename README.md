@@ -5,9 +5,11 @@
 
 ## Work Experience
 **Senior Developer @ Optimizely Inc. (_May 2023 - Feb 2024_)**
-- Developed and migrated various Optimizely CMS products like Content Cloud , Commerce Cloud and other DXP services using .Net, .Net Core, MSSQL, Elasticsearch, Azure etc.
-- Experimentation and integration of headless Optimizely CMS products with modern front-end framework like React and Angular
-- Development collaboration with Optimizely APJ Expert Services Team (Australia)
+- Designed and developed scalable backend services for Optimizely's Content and Commerce Cloud platforms, leveraging .NET Core, MSSQL, Elasticsearch, and Azure to ensure high availability and performance.
+- Collaborated the migration of legacy systems to modern tech-stacked and scalable architecture, improving system flexibility and maintainability by 30%.
+- Collaborated on API development for headless CMS integration with front-end frameworks like React and Angular, enhancing content delivery speed and efficiency.
+- Engaged in technical architecture discussions, implemented SaaS-based solutions, and ensured adherence to industry best practices across the development team.
+- Improved code quality and performance by 20% through continuous integration, automated testing, and performance tuning, leading to faster deployment cycles.
 - [www.optimizely.com](www.optimizely.com)
 
 **Software Engineer @ ASAI Management Services Ltd. (_Nov 2020 - Apr 2023_)**
