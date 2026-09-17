@@ -2,10 +2,10 @@
 
 Berlin, Germany · [LinkedIn](https://www.linkedin.com/in/tawhid-chowdhury-) · [cmdtawhid@gmail.com](mailto:cmdtawhid@gmail.com)
 
-9+ years architecting and shipping scalable systems across fintech, enterprise SaaS and
-AI-driven platforms. I lead engineering teams, mentor developers, and turn complex, ambiguous
+9+ years architecting and shipping scalable systems across fintech, healthcare, enterprise SaaS
+and AI-driven platforms. I lead engineering teams, mentor developers, and turn complex, ambiguous
 problems into production systems — architecture and strategy through implementation and
-operations. EU Blue Card holder, available immediately.
+operations.
 
 #### Technical Skills
 **Languages & frameworks:** C#, .NET 8, ASP.NET Core, EF Core, TypeScript, Angular, NgRx, React
