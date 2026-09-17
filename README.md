@@ -1,6 +1,6 @@
 # Lead Software Engineer
 
-Berlin, Germany · [LinkedIn](https://www.linkedin.com/in/tawhid-chowdhury-) · [cmdtawhid@gmail.com](mailto:cmdtawhid@gmail.com)
+Germany · [LinkedIn](https://www.linkedin.com/in/tawhid-chowdhury-) · [cmdtawhid@gmail.com](mailto:cmdtawhid@gmail.com)
 
 9+ years architecting and shipping scalable systems across fintech, healthcare, enterprise SaaS
 and AI-driven platforms. I lead engineering teams, mentor developers, and turn complex, ambiguous
