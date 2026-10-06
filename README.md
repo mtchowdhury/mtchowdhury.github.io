@@ -39,14 +39,14 @@ operations.
 - Coordinated with cross-functional (QA, Implementation, BA, Operations etc.) teams to ensure seamless integration and deployment of new features
 - [www.asa-international.com](www.asa-international.com)
 
-**Software Engineer @ M2SYS Technology (_Mar 2020 - Nov 2020_)**
+**Software Engineer @ M2SYS Technology (_Mar 2020 - Oct 2020_)**
 - Developed and maintained a Drag-and-Drop SaaS platform using Angular, .NET Core, PostgreSQL, and Apache Solr
 - Developed cross-platform desktop applications using Electron JS, enhancing user experience and application performance
 - Collaboration with product managers to define project requirements and deliver software solutions on time
 - [www.m2sys.com](www.m2sys.com)
 
 **Asst. Software Engineer @ ASA Bangladesh (_Jan 2017 - Feb 2020_)**
--  Designed and developed next-generation enterprise solution using .Net, AngularJS, MSSQL, responsible for managing daily operation of core financial services, running in over 3200+ branches
+-  Designed and developed next-generation enterprise solution using .Net, AngularJS, MSSQL, responsible for managing daily operation of core financial services, running in over 3,200 branches
 - Collaboration in data migration of over 16 years of data using SQL scripting and long running scheduler services, from offline branch system to online system
 - [asa.org.bd](https://asa.org.bd)
 
@@ -57,7 +57,6 @@ operations.
 
 ## Certifications
 - Optimizely Certified Content Cloud Developer
-- Top-Up IT Training (LICT, Employment and Governance Project, BD) | Native Android Application Development (180 Hrs.)
 
 
 ## Projects
@@ -81,7 +80,7 @@ operations.
 - [More Info](https://www.cloudapper.ai)
 
 ### ASAI Micro-Finance Banking System(AMBS)
-- Main 360° Solution for ASA International that runs over 14 Countries worldwide
+- Main 360° Solution for ASA International that runs across 13 countries
 
 - Migrated major modules like accounts, finance, operations from mono web-form to micro-service architecture solution from scratch
 - Maintained and enhanced legacy web-form, web-service tools that was partially operational globally
@@ -90,13 +89,13 @@ operations.
 - Tech Stacks: .Net Core, Angular, React, Web form, MS SQL, Mongo, RabbitMQ, Kibana, Elasticsearch etc.
 
 ### ASA Bangladesh Micro-Finance Management System(AMMS)
-- Main Core Solution for ASA Bangladesh that runs over 3200++ branches across the country
+- Main Core Solution for ASA Bangladesh that runs in over 3,200 branches across the country
 
 - Developed next generation online system using .Net, AngularJS, MS SQL, Jquery etc. from offline Win Form application. This enabled the organisation to avoid consolidating daily scattered branch data, remove the necessity of manually collecting confidential operational data and get rid of the hassle of machine centric hardware compatibility for each branch.
-- Wrote many complex sql queries and long running services to migrate and archive more than 16 years of 3200++ branches data to develop the reporting server
+- Wrote many complex sql queries and long running services to migrate and archive more than 16 years of data from over 3,200 branches to develop the reporting server
 
 ### NextReady Ltd.
-- SaaS based career consultancy system that provides various services including resume building on custom templates, resume/ portfolio scanner and improvement, job feed generation based on real time data scrapping and user defined criterias.
+- SaaS based career consultancy system that provides various services including resume building on custom templates, resume/ portfolio scanner and improvement, job feed generation based on real-time data scraping and user-defined criteria.
 
 - Tech Stacks: .Net Core, Angular, python, MSSQL etc
 - [More Info](http://nextready.org/home)
